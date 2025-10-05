@@ -61,7 +61,7 @@ frontend/
 ### 🖥️ Clonando o repositório
 
 ```
-git clone https://github.com/seuusuario/frontend.git
+git clone https://github.com/joaopedrogr/Project.git
 cd frontend
 npm install
 ```
