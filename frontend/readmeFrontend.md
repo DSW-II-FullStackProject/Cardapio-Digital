@@ -72,7 +72,7 @@ Crie um arquivo .env na raiz do projeto: `VITE_API_URL=http://localhost:5000`
 
 ### 🔧 Rodando o projeto localmente
 ```
-npm run dev
+npm start
 ```
 
 O front-end estará disponível em: `http://localhost:3000`
