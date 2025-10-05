@@ -59,7 +59,7 @@ backend/
 
 ### 🖥️ Clonando o repositório
 ```
-git clone https://github.com/seuusuario/backend.git
+git clone https://github.com/joaopedrogr/Project.git
 cd backend
 npm install
 ```
