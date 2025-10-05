@@ -135,7 +135,9 @@ Resposta:
 
 ---
 
-## 🧪 Testando no Postman Abaixo está um exemplo de teste realizado no Postman, mostrando a API em funcionamento: 
+## 🧪 Testando no Postman 
+
+Abaixo está um exemplo de teste realizado no Postman, mostrando a API em funcionamento: 
 
 ### ➕ POST /api/foods 
 ![POST Foods](./assets/post.png) 
