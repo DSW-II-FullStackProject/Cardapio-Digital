@@ -61,7 +61,7 @@ frontend/
 ### 🖥️ Clonando o repositório
 
 ```
-git clone https://github.com/joaopedrogr/Project.git
+git clone https://github.com/joaopedrogr/Cardapio-Digital.git
 cd frontend
 npm install
 ```
