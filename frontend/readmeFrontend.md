@@ -8,7 +8,7 @@
 
 O Frontend é a interface visual do cardápio digital da pizzaria Tri Fratelli, permitindo que os clientes visualizem os produtos, seus preços e imagens de forma simples e moderna.
 
-O projeto foi desenvolvido em React com TypeScript, utilizando CSS puro para estilização e comunicação direta com a API REST do backend (também desenvolvido pela equipe da Tri Fratelli).
+O projeto foi desenvolvido em React com TypeScript, utilizando CSS puro para estilização e comunicação direta com a API REST do backend.
 
 Todos ajustes visuais e de integração foram realizados por João Pedro, garantindo uma experiência fluida e responsiva.
 
