@@ -59,7 +59,7 @@ backend/
 
 ### 🖥️ Clonando o repositório
 ```
-git clone https://github.com/joaopedrogr/Project.git
+git clone https://github.com/joaopedrogr/Cardapio-Digital.git
 cd backend
 npm install
 ```
