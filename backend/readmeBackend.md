@@ -128,7 +128,7 @@ Resposta:
 #### ❌ DELETE /api/foods/:id 
 Exemplo de requisição:
 ```
-DELETE http://localhost:5000/api/foods/9
+DELETE http://localhost:5000/api/foods/12
 ```
 Resposta:
 204 No Content → não permite corpo na resposta (por isso sua mensagem poderia ser ignorada), mas informa que a ação foi concluída com sucesso.
