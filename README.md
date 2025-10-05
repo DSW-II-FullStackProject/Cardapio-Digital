@@ -179,5 +179,7 @@ Livre para uso educacional e estudos.
 
 ## 👨‍🏫 DESENVOLVIDO POR:
 João Pedro Guinati, Mateus dos Santos Moreira e Igor Takagui Reis
+
 📍 *UNIFACEF – Engenharia de Software*  
+
 📚 *Disciplina: Desenvolvimento Web II*
