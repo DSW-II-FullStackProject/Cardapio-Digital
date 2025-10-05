@@ -148,4 +148,6 @@ Resposta:
 
 ---
 
-## 📄 Licença Este projeto pode servir como base para estudos e expansão de soluções de cardápio digital. Fique à vontade para contribuir ou adaptar conforme necessário.
+## 📄 Licença 
+
+Este projeto pode servir como base para estudos e expansão de soluções de cardápio digital. Fique à vontade para contribuir ou adaptar conforme necessário.
