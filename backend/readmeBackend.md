@@ -107,7 +107,7 @@ Requisição:
 Resposta:
 ```
 {
-  "id": 9,
+  "id": 10,
   "name": "Pizza Calabresa",
   "price": 39.9,
   "imageUrl": "https://example.com/calabresa.jpg",
@@ -118,7 +118,7 @@ Resposta:
 #### 📋 GET /api/foods Resposta:
 ```
   {
-    "id": 9,
+    "id": 10,
     "name": "Pizza Calabresa",
     "price": 39.9,
     "imageUrl": "https://example.com/calabresa.jpg",
