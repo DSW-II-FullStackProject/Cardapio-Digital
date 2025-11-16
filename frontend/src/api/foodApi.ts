@@ -1,6 +1,5 @@
 import type { Food } from "../types/Food";
 
-
 const API_BASE = "http://localhost:5000";
 const RESOURCE = "/api/foods";
 
@@ -69,5 +68,14 @@ export const foodApi = {
   update: updateFood,
   remove: deleteFood,
 };
+
+export async function generateMenu(token: string): Promise<string> {
+  const res = await fetch(`${API_BASE}/api/ai/gerar-cardapio`, {
+    headers: { Authorization: `Bearer ${token}` }
+  });
+
+  const json = await res.json();
+  return json.result;
+}
 
 export default foodApi;

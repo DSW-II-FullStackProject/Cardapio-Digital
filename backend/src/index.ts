@@ -1,6 +1,11 @@
 import express from "express";
 import cors from "cors";
 import foodRoutes from "./routes/foodRoutes";
+import aiRoutes from "./routes/aiRoutes";
+import userRoutes from "./routes/userRoutes";
+
+app.use("/api/ai", aiRoutes);
+app.use("/api/users", userRoutes);
 
 const app = express();
 
