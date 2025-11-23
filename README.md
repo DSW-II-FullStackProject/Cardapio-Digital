@@ -1,7 +1,5 @@
 # 🍕 TRI FRATELLI - CARDÁPIO DIGITAL
 
----
-
 ## OBJETIVO  
 
 Desenvolver um sistema completo de cardápio digital para a pizzaria Tri Fratelli, com frontend moderno, backend escalável, banco em nuvem, autenticação segura, containerização e integração com IA para recomendações de pizzas.
@@ -19,8 +17,14 @@ A interface apresenta um design simples e elegante, com cores e estilos inspirad
 https://github.com/user-attachments/assets/3ea8df99-6507-4632-ba43-330a0a390377
 
 ### Imagens do projeto:
-![imagem](./frontend/assets/image.png) 
-
+<img width="1919" height="943" alt="Image" src="https://github.com/user-attachments/assets/e34fc546-93fb-42c1-bfa9-d2aaed4cfe6c" />
+<img width="1919" height="940" alt="Image" src="https://github.com/user-attachments/assets/2e2ffaed-04dd-4105-9e5b-7163b8246fba" />
+<img width="1903" height="940" alt="Image" src="https://github.com/user-attachments/assets/bbb5c3c8-bcdb-4ec7-9a7e-92b80a16cf40" />
+<img width="1900" height="940" alt="Image" src="https://github.com/user-attachments/assets/fa582f70-8691-4f8f-9f9d-31a3211c97d8" />
+<img width="1901" height="940" alt="Image" src="https://github.com/user-attachments/assets/a7c5ea09-8410-497a-b7da-7bf356cc9aa7" />
+<img width="1901" height="939" alt="Image" src="https://github.com/user-attachments/assets/c4209c32-bcc5-4a5a-8264-74053afbc8c8" />
+<img width="1899" height="942" alt="Image" src="https://github.com/user-attachments/assets/5e3a37be-adc9-4431-be40-382fea4661c6" />
+<img width="1901" height="938" alt="Image" src="https://github.com/user-attachments/assets/e4c2a8a2-87fc-420e-b3c0-ccb42a828e7d" />
 
 ---
 
@@ -58,17 +62,15 @@ https://github.com/user-attachments/assets/3ea8df99-6507-4632-ba43-330a0a390377
 - Axios – Cliente HTTP para integração com a API  
 - CSS3 – Estilização moderna e responsiva  
 
-
 ### Banco de Dados
 ![Prisma](https://skillicons.dev/icons?i=prisma)
 ![supabase](https://skillicons.dev/icons?i=supabase)
 ![postgres](https://skillicons.dev/icons?i=postgres)
 
-
 - Supabase (PostgreSQL) — Banco de produção em nuvem 
 - Prisma ORM — Controle de schema e queries
 
-![imagem](./frontend/assets/image10.png) 
+<img width="1593" height="624" alt="Image" src="https://github.com/user-attachments/assets/21ce0373-7fbc-4712-9bfa-0e959302e433" />
 
 ### Criptografia
 - Registro e login com criptografia bcrypt 
@@ -80,7 +82,6 @@ https://github.com/user-attachments/assets/3ea8df99-6507-4632-ba43-330a0a390377
 ![Docker](https://skillicons.dev/icons?i=docker)
 - Docker – Containerização da aplicação para ambiente isolado  
 - Dockerfile – Configuração de ambiente e dependências  
-
 
 ### Inteligência Artificial (Gemini 2.5 Flash) 
 O sistema utiliza IA para: 
@@ -145,10 +146,10 @@ frontend/
 ## BANCO DE DADOS
 
 ### Tabela de usuários:
-![imagem](./frontend/assets/image8.png) 
+<img width="1897" height="905" alt="Image" src="https://github.com/user-attachments/assets/0f7d79aa-678a-488b-8ddd-a7d251805116" />
 
 ### Tabela de alimentos:
-![imagem](./frontend/assets/image9.png) 
+<img width="1899" height="909" alt="Image" src="https://github.com/user-attachments/assets/de4124b9-4e1e-437b-b01d-6c446bad4c77" />
 
 ---
 
@@ -174,7 +175,7 @@ Link do backend: https://cardapio-digital-tmu7.onrender.com/
 | PUT    | /api/foods/:id     | Atualiza um alimento          |
 | DELETE | /api/foods/:id     | Remove alimento por ID        |
 ```
-![imagem](./frontend/assets/image11.png) 
+<img width="1833" height="980" alt="Image" src="https://github.com/user-attachments/assets/9613eb36-c5d4-412a-a9cc-2380c71e9395" />
 
 ### Inteligência Artificial
 ```
